@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SoundBox Custom</string>
+    <string name="textview1">Edit button settings</string>
+    <string name="textview2">Label : </string>
+    <string name="bouton1">Button label</string>
+    <string name="bouton2">Button image from file</string>
+    <string name="raz">Clear</string>
+    <string name="raz_img">No_image</string>
+    <string name="raz_son">No_sound</string>
+    <string name="bouton3">Button sound from file</string>
+    <string name="switch1">Record sound ?</string>
+    <string name="switch1_on">On</string>
+    <string name="switch1_off">Off</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_clear">Clear ?</string>
+    <string name="delete_img">Button image file path will be deleted.</string>
+    <string name="delete_son">Button sound file path will be deleted.</string>
+    <string name="clear">Clear</string>
+    <string name="image_not_exist">Image file does not exist</string>
+    <string name="sound_not_exist">Sound file does not exist</string>
+    <string name="sound_file_error">Sound file error</string>
+    <string name="image_file_error">Image file error</string>
+</resources>

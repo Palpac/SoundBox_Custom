@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:title="Libellé bouton"
+        android:key="bouton_texte"
+        android:summary="Saisir le texte qui sera affiché sur le bouton"></EditTextPreference>
+    <ListPreference     android:title="Image du bouton"
+        android:summary="Sélectionner l'image de fond du bouton"
+        android:key="bouton_image"
+        android:defaultValue="1"
+        android:entries="@array/listArray"
+        android:entryValues="@array/listValues" />
+    <ListPreference     android:title="Son du bouton"
+        android:summary="Sélectionner le son associé au bouton"
+        android:key="bouton_son"
+        android:defaultValue="1"
+        android:entries="@array/listArray"
+        android:entryValues="@array/listValues" />
+</PreferenceScreen>
