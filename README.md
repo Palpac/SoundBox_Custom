@@ -4,7 +4,7 @@ Boite à son avec 21 boutons personnalisables.
 ![title](https://github.com/Palpac/SoundBox_Custom/blob/master/Screenshot_3.png)
 ![title](https://github.com/Palpac/SoundBox_Custom/blob/master/Screenshot_2.png)
 ![title](https://github.com/Palpac/SoundBox_Custom/blob/master/Screenshot_1.png)
-![title](https://github.com/Palpac/SoundBox_Custom/blob/master/Screenshot_4.png)
+![title](https://github.com/Palpac/SoundBox_Custom/blob/master/Screenshot_4_1.png)
 
 L'utilisateur doit paramétrer chaque bouton de la boite à son :
      Son : Le son qui sera joué, si le bouton est touché. 
@@ -17,8 +17,7 @@ Les sons, images et enregistrements sont stockés dans la carte SD.
 
 Enjoy!
 
-Code source : https://github.com/Palpac/SoundBox_Custom
-Palpac_prod_2018
+Fiche Google Play : https://play.google.com/store/apps/details?id=palpac.soundbox_custom
 
 API 16,
 Java,
